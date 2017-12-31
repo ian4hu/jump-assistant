@@ -1,0 +1,6 @@
+*.psd
+*.png
+*.jpg
+PCV/
+PCV_src/
+venv/

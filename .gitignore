@@ -1,6 +1,7 @@
 *.psd
 *.png
 *.jpg
-PCV/
+PCV
 PCV_src/
 venv/
+*.pyc
